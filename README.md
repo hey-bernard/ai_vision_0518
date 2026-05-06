@@ -2,9 +2,10 @@
 ##  생성형 AI 기반 멀티모달 Vision AI 서비스 개발 과정 (2026.05.18 ~ 07.28 , 160Hr)
 <br>
 
-
 [구름EDU 강의 바로가기](https://seoul-ict.goorm.io/lecture/63483/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%83%9D%EC%84%B1%ED%98%95-ai-%EA%B8%B0%EB%B0%98-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-vision-ai-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C)
 <br>
+<br>
+
 
 ## 강사 git 주소 :    https://github.com/digicope/ai_vision_0518
 <br>
