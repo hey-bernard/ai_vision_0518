@@ -9,3 +9,8 @@ https://wikidocs.net/278669
 #### 파이썬/ VSCODE 사용법:
 https://wikidocs.net/135796
 <br>
+
+
+#### OpenAI API Key 발급 :
+https://platform.openai.com/
+<br>
