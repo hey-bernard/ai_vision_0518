@@ -14,3 +14,7 @@ https://wikidocs.net/135796
 #### OpenAI API Key 발급 :
 https://platform.openai.com/
 <br>
+
+#### OpenAI API 가격 :
+https://openai.com/ko-KR/api/pricing/?utm_source=chatgpt.com
+<br>
