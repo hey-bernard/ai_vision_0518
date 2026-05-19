@@ -16,5 +16,5 @@ https://platform.openai.com/
 <br>
 
 #### OpenAI API 가격 :
-https://openai.com/ko-KR/api/pricing/?utm_source=chatgpt.com
+https://developers.openai.com/api/docs/pricing
 <br>
