@@ -1,0 +1,42 @@
+# Chatbot 생성 프롬프트
+1. chatbot.py를 만들어서 OpenAI API를 사용해 1회 질문을 보내고
+답을 출력하는 코드를 함수나 환경변수 사용하지 않는 최소
+코드만 작성해줘.
+
+2. 아래와 같이 OpenAI API 최신 버전 스타일로 수정해줘
+from openai import OpenAI
+client = OpenAI(api_key=API_KEY)
+model = "gpt-4o-mini"
+messages = [ 
+            {"role": "system", "content": "You are a helpful assistant."},
+            {"role": "user", "content":"하늘은 왜 파란가요?"} ]
+
+completion = client.chat.completions.create(model=model,messages=messages)
+print(completion.choices[0].message.content)
+
+3. gpt-4o-mini 모델로 변경해줘.
+
+4. API 키를 코드에 직접 쓰지 말고 아래와 같이 dot_env를 사용해서 환경변수에서 에서 읽어오도록
+수정해줘. 
+from dotenv import load_dotenv
+import os
+
+# .env 파일 불러오기
+load_dotenv("C:/env/.env")
+
+# 환경 변수 가져오기
+API_KEY = os.getenv("OPENAI_API_KEY")
+
+5. 질문 입력 시 'You:' , 응답 출력 시 'Bot:' 이 앞에 붙도록 수정해줘
+사용자 입력을 받아 OpenAI API에 전달하고, 응답을 리턴하는
+함수(chat_with_gpt)를 만들어줘.
+사용자가 'quit'을 입력하기 전까지 반복적으로 실행하도록
+구현해줘.
+
+6. 대화 히스토리를 리스트에 저장해서, 이전 질문과 답변을
+맥락으로 포함해주는 챗봇으로 수정해줘.
+
+7. 지금까지 만든 예제를 Tkinter GUI로 새로운 파일로 작성해줘.
+8 . GUI화면과 대화 텍스트 폰트 및 색상을 좀더 예쁘게 만들어줘.
+9. 이 소스의 사용법과 기능을 문서로 작성해줘.
+10. 윈도우의 실행 파일 포맷(.exe)으로 만들어줘.
