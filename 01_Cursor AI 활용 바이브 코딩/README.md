@@ -21,3 +21,7 @@ https://platform.openai.com/
 #### OpenAI API 가격 :
 https://developers.openai.com/api/docs/pricing
 <br>
+
+#### OpenAI 사용법 관련 위키문서 :
+https://wikidocs.net/book/18293
+<br>
