@@ -39,3 +39,7 @@ py
 - Cursor를 다시 실행하고 
   터미널에서 가상환경 활성화
 .venv\Scripts\activate
+
+- Select Kernel 에서 
+Select Another Kernel --> Jupyter Kernel -->tf21(Python 3.10.11)을 선택해준다
+
