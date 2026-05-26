@@ -1,0 +1,31 @@
+[Cursor에서 TF210 가상환경 생성하기]
+
+터미널에서 아래 명령을 차례로 실행한다
+
+- 파이썬 3.10 설치
+winget install Python.Python.3.10
+
+( 만일 winget 자체가 없으면 python.org에서 
+  Python 3.10.11 버전을 직접 다운받아서 설치한다)
+
+- 파이썬 버전 확인
+py -3.10 --version
+
+- 가상환경 생성
+py -3.10 -m venv .venv
+
+- 가상환경 활성화
+.venv\Scripts\activate
+
+- TensorFlow 2.10 설치
+pip install tensorflow==2.10
+
+- Numpy 1.x 로 다운그레이드
+pip uninstall numpy
+pip install numpy==1.26.4
+
+- Python을 실행하여 설치 확인
+py
+>>> import tensorflow as tf
+>>> tf.__version__
+'2.10.0'
