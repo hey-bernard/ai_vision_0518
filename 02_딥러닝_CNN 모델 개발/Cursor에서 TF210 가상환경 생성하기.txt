@@ -24,8 +24,18 @@ pip install tensorflow==2.10
 pip uninstall numpy
 pip install numpy==1.26.4
 
+- ipykernel 설치
+pip install ipykernel
+
+- 현재 가상환경을 Jupyter 커널 등록
+python -m ipykernel install --user --name=tf210
+
 - Python을 실행하여 설치 확인
 py
 >>> import tensorflow as tf
 >>> tf.__version__
 '2.10.0'
+
+- Cursor를 다시 실행하고 
+  터미널에서 가상환경 활성화
+.venv\Scripts\activate
