@@ -1,6 +1,8 @@
 ### 02_딥러닝_CNN 모델 개발
 <br>
 
+
+
 #### 파이토치 설치 : 초간단 PyTorch :
 https://wikidocs.net/294888
 <br>
@@ -12,5 +14,3 @@ https://wikidocs.net/book/2788
 #### 파이토치 : 딥러닝
 https://wikidocs.net/226636
 <br>
-
-
