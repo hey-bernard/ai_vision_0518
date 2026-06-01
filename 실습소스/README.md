@@ -31,6 +31,10 @@ https://www.kaggle.com/datasets/enddl22/deepnir-nir-rgb-sen12ms-dataset
 https://github.com/amazon-science/spot-diff
 <br>
 
+#### UCI HAR Dataset : 스마트폰 센서(가속도계, 자이로) 데이터를 이용한 Human Activity Recognition 데이터셋
+httpswww.kaggle.comdatasetsdrsaeedmohsenucihar-datasetutm_source=chatgpt.com#~text=UCI%2DHAR%20dataset-,UCI%2DHAR%20dataset,-arrow_drop_up
+<br>
+
 #### 무인 플랜트 안전 감시를 위한 데이터 : AI Hub 제공 국내 데이터셋
 https://aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&srchOptnCnd=OPTNCND001&searchKeyword=%EC%84%A4%EB%B9%84&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&aihubDataSe=data&dataSetSn=71677
 <br>
