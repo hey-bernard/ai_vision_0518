@@ -16,9 +16,16 @@ https://www.kaggle.com/datasets/ipythonx/mvtec-ad
 https://data.caltech.edu/records/mzrjq-6wc02
 <br>
 
+#### NEU Surface Defect Dataset : 강판 표면 결함 이미지 데이터셋
+https://www.kaggle.com/datasets/rdsunday/neu-urface-defect-database?resource=download
+<br>
 
 #### 무인 플랜트 안전 감시를 위한 데이터 : AI Hub 제공 국내 데이터셋
 https://aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&srchOptnCnd=OPTNCND001&searchKeyword=%EC%84%A4%EB%B9%84&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&aihubDataSe=data&dataSetSn=71677
+<br>
+
+#### 스마트 제조 시설 안전 감시를 위한 데이터 :  사고, 침입, 화재등 AI Hub 제공 국내 데이터셋
+https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=71679
 <br>
 
 
