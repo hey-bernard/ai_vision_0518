@@ -27,6 +27,10 @@ https://www.kaggle.com/datasets/mohitsingh1804/plantvillage?utm_source=chatgpt.c
 https://www.kaggle.com/datasets/enddl22/deepnir-nir-rgb-sen12ms-dataset
 <br>
 
+#### VisA Dataset : 산업 설비 및 제품의 이상(불량) 탐지용 이미지 데이터셋
+https://github.com/amazon-science/spot-diff
+<br>
+
 #### 무인 플랜트 안전 감시를 위한 데이터 : AI Hub 제공 국내 데이터셋
 https://aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&srchOptnCnd=OPTNCND001&searchKeyword=%EC%84%A4%EB%B9%84&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&aihubDataSe=data&dataSetSn=71677
 <br>
