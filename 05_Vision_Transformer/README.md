@@ -7,3 +7,7 @@ https://discuss.pytorch.kr/t/vision-transformer-a-visual-guide-to-vision-transfo
 #### Hugging Face Transformers :
 https://huggingface.co/docs/transformers/index?utm_source=chatgpt.com
 <br>
+
+#### 트랜스포머의 구조 :
+https://nongnongai.tistory.com/66
+<br>
