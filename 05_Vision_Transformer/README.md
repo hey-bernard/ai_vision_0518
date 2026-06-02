@@ -11,3 +11,5 @@ https://huggingface.co/docs/transformers/index?utm_source=chatgpt.com
 #### 트랜스포머의 구조 :
 https://nongnongai.tistory.com/66
 <br>
+https://deeeepdive.tistory.com/entry/%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8Transformer-Multi-head-Attention
+<br>
