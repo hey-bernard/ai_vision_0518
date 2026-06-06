@@ -10,3 +10,11 @@ https://github.com/ultralytics/ultralytics
 #### MS COCO Datset :
 https://cocodataset.org/#home
 <br>
+
+#### runpod : GPU 대여
+https://www.runpod.io/
+<br>
+
+#### CVAT: Computer Vision Annotation Tool
+https://www.cvat.ai/
+<br>
