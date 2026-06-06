@@ -18,3 +18,6 @@ https://www.runpod.io/
 #### CVAT: Computer Vision Annotation Tool
 https://www.cvat.ai/
 <br>
+
+#### Weights & Bias : model monitoring 
+https://wandb.ai/site/ko/
