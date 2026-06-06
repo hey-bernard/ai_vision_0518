@@ -43,4 +43,7 @@ https://aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&
 https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=71679
 <br>
 
+#### 에어 피팅 조립 상태 데이터 :
+https://aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&srchOptnCnd=OPTNCND001&searchKeyword=%EC%82%B0%EC%97%85+%EC%84%A4%EB%B9%84&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&srchDataRealmCode=REALM012&aihubDataSe=data&dataSetSn=71927
+<br>
 
