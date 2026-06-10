@@ -21,5 +21,9 @@ https://www.runpod.io/
 https://www.cvat.ai/
 <br>
 
+####  LabelImg : Object Detection 라벨링 도구(가장 많이 사용)
+https://github.com/HumanSignal/labelImg
+<br>
+
 #### Weights & Bias : model monitoring 
 https://wandb.ai/site/ko/
