@@ -17,12 +17,16 @@ https://cocodataset.org/#home
 https://www.runpod.io/
 <br>
 
-#### CVAT: Computer Vision Annotation Tool
-https://www.cvat.ai/
-<br>
-
 ####  LabelImg : Object Detection 라벨링 도구(가장 많이 사용)
 https://github.com/HumanSignal/labelImg
+<br>
+
+####  Label Studio : 다양한 AI 데이터 라벨링 지원
+https://labelstud.io/
+<br>
+
+#### CVAT: Computer Vision Annotation Tool
+https://www.cvat.ai/
 <br>
 
 #### Weights & Bias : model monitoring 
