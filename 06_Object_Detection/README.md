@@ -29,5 +29,9 @@ https://labelstud.io/
 https://www.cvat.ai/
 <br>
 
+#### Makesense.ai : 설치 없이 브라우저에서 사용 가능
+https://www.makesense.ai/
+<br>
+
 #### Weights & Bias : model monitoring 
 https://wandb.ai/site/ko/
