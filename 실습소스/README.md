@@ -44,6 +44,10 @@ https://ljf1113.github.io/IPAD_VAD/ <br>
 https://arxiv.org/abs/2404.15033
 <br>
 
+#### 에어 피팅 조립 상태 데이터 :
+https://aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&srchOptnCnd=OPTNCND001&searchKeyword=%EC%82%B0%EC%97%85+%EC%84%A4%EB%B9%84&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&srchDataRealmCode=REALM012&aihubDataSe=data&dataSetSn=71927
+<br>
+
 #### 무인 플랜트 안전 감시를 위한 데이터 : AI Hub 제공 국내 데이터셋
 https://aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&srchOptnCnd=OPTNCND001&searchKeyword=%EC%84%A4%EB%B9%84&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&aihubDataSe=data&dataSetSn=71677
 <br>
@@ -56,7 +60,4 @@ https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=71679
 https://aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&srchOptnCnd=OPTNCND001&searchKeyword=%ED%95%9C%EA%B5%AD%EC%96%B4+OCR&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&srchDataRealmCode=REALM002&aihubDataSe=data&dataSetSn=91
 <br>
 
-#### 에어 피팅 조립 상태 데이터 :
-https://aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&srchOptnCnd=OPTNCND001&searchKeyword=%EC%82%B0%EC%97%85+%EC%84%A4%EB%B9%84&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&srchDataRealmCode=REALM012&aihubDataSe=data&dataSetSn=71927
-<br>
 
