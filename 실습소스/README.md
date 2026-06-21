@@ -52,6 +52,10 @@ https://aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&
 https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=71679
 <br>
 
+#### 다양한 형태의 한글 문자 OCR : 다양한 형태(테이블 내 텍스트, 숫자, 문장부호 등 포함)의 한글 글자체 AI Hub 제공 국내 데이터셋
+https://aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&srchOptnCnd=OPTNCND001&searchKeyword=%ED%95%9C%EA%B5%AD%EC%96%B4+OCR&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&srchDataRealmCode=REALM002&aihubDataSe=data&dataSetSn=91
+<br>
+
 #### 에어 피팅 조립 상태 데이터 :
 https://aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&srchOptnCnd=OPTNCND001&searchKeyword=%EC%82%B0%EC%97%85+%EC%84%A4%EB%B9%84&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&srchDataRealmCode=REALM012&aihubDataSe=data&dataSetSn=71927
 <br>
