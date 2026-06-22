@@ -13,6 +13,9 @@
 https://drive.google.com/drive/folders/1FS03gEbpzkdgppSIXYBgaTaDwXq6NyAC?usp=sharing_eil_se_dm&ts=69f2e7f1
 <br>
 
+#### 프로젝트 기획안과 프로젝트 결과물 제출 공유 드라이브 :
+https://drive.google.com/drive/folders/1I-5TABtOdLm8yrmbSMRMz2qJqASPeM9q
+
 #### 강사: 고병화
 #### E-mail : digicope@aicore.co.kr
 <br>
