@@ -7,7 +7,7 @@
 ## 강사 git 주소 :    https://github.com/digicope/ai_vision_0518
 <br>
 
-#### git 사용기간 : 2026.05.18 ~ 07.28 (2026.07.28  이후에는 접속 불가)
+#### git 사용기간 : 2026.05.18 ~ 08.28 (강의 종료일 이후 1개월까지 접속 가능)
 
 #### 공유드라이브 :
 https://drive.google.com/drive/folders/1FS03gEbpzkdgppSIXYBgaTaDwXq6NyAC?usp=sharing_eil_se_dm&ts=69f2e7f1
