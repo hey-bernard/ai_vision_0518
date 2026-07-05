@@ -60,6 +60,6 @@ https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=71679
 https://aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&srchOptnCnd=OPTNCND001&searchKeyword=%ED%95%9C%EA%B5%AD%EC%96%B4+OCR&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&srchDataRealmCode=REALM002&aihubDataSe=data&dataSetSn=91
 <br>
 
-### KOSHA 안전보건자료실 :
+### KOSHA 안전보건자료실 (PDF 홍보 이미지) :
 https://portal.kosha.or.kr/archive/cent-archive/indust-arch/indust-page1/indust-page1-list1?page=1&rowsPerPage=12
 <br>
