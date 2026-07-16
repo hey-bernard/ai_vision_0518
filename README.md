@@ -17,7 +17,7 @@ https://drive.google.com/drive/folders/1FS03gEbpzkdgppSIXYBgaTaDwXq6NyAC?usp=sha
 https://drive.google.com/drive/folders/1I-5TABtOdLm8yrmbSMRMz2qJqASPeM9q
 
 #### 강사: 고병화
-#### E-mail : digicope@aicore.co.kr
+#### E-mail : digicope@aicore.co.kr   (과제 제출 이메일)
 <br>
 <br>
 
