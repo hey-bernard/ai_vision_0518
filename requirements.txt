@@ -1,0 +1,19 @@
+### Streamlit Web UI
+
+streamlit>=1.35.0 
+
+### LangChain Core & OpenAI Integration
+
+langchain>=0.2.0
+langchain-openai>=0.1.0
+langchain-community>=0.2.0 
+
+### Vector Database
+
+chromadb>=0.5.0 
+
+### Image & Data Processing
+
+Pillow>=10.3.0
+opencv-python>=4.9.0.80
+numpy>=1.26.0
